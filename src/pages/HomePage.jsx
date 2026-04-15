@@ -166,10 +166,7 @@ function HomePage() {
         <div className="relative z-10 mx-auto flex min-h-[68vh] w-full items-start justify-center px-3 pb-4 pt-2 sm:min-h-screen sm:items-center sm:justify-start sm:px-10 sm:py-12 md:pl-16 lg:pl-24">
           <div className="w-full max-w-lg rounded-3xl bg-white/90 p-4 shadow-xl backdrop-blur-sm sm:rounded-none sm:bg-transparent sm:p-0 sm:shadow-none sm:backdrop-blur-0">
             <div className="py-1 sm:py-2">
-              <span className="inline-flex items-center gap-2 rounded-full border border-green-200 bg-green-50 px-3 py-1 text-xs font-medium text-green-800">
-                <Sparkles className="h-3.5 w-3.5" />
-                Kolay, hızlı, güvenilir
-              </span>
+
               <h1 className="mt-3 text-3xl font-bold leading-tight text-gray-900 sm:mt-5 sm:text-5xl">Sebzecin Artık Online</h1>
               <p className="mt-3 text-sm leading-7 text-gray-600 sm:mt-5 sm:text-base">
                 Taze sebze ve meyveleri birkaç saniyede sipariş ver. Siparişlerini kolayca takip et.
